@@ -1,8 +1,8 @@
-# EDI-Products
+# EDI-data-citations
 
-A catalog of EDI products hosted here on [GitHub](https://ediorg.github.io/EDI-products/complete.html) and embedded in the [EDI website](https://edirepository.org/about/edi-products).
+A catalog of EDI data package citations hosted here on [GitHub](https://ediorg.github.io/EDI-data-citations/complete.html) and embedded in the [EDI website](https://edirepository.org/about/edi-data-citations).
 
-_EDI-products is based on the [Zotero-JavaScript-Search-Client](https://github.com/BLE-LTER/Zotero-JavaScript-Search-Client) developed by Tim Whiteaker for the Long-Term Ecological Research Network (LTER)._
+_EDI-data-citations is based on the [Zotero-JavaScript-Search-Client](https://github.com/BLE-LTER/Zotero-JavaScript-Search-Client) developed by Tim Whiteaker for the Long-Term Ecological Research Network (LTER)._
 
 ## Usage
 
